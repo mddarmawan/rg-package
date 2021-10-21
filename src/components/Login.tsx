@@ -36,7 +36,7 @@ const Login = () => {
         <img className="float-right" alt="" src="https://www.ruangguru.com/hubfs/OPTIMIZE/logo%20rg.svg" />
         <div className="text-center my-6 mt-10">
           <h1 className="text-3xl font-semibold text-gray-700">Sign in</h1>
-          <p className="text-gray-500">Sign in to access admin panel</p>
+          <p className="text-gray-500">Sign in to access your account</p>
         </div>
         <div className="m-6">
           <form className="mb-4" onSubmit={handleSubmit}>
